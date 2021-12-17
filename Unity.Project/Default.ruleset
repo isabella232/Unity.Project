@@ -1,0 +1,6 @@
+<RuleSet Name="New Rule Set" Description=" " ToolsVersion="10.0">
+  <Rules AnalyzerId="ErrorProne.NET.CodeAnalyzers" RuleNamespace="ErrorProne.NET.CodeAnalyzers">
+    <Rule Id="UNT0001" Action="Warn" />
+    <Rule Id="UNT0002" Action="Warn" />
+  </Rules>
+</RuleSet>
