@@ -1,0 +1,632 @@
+[
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "badd4315-0488-4000-ae10-1f926f0db549"
+    },
+    "FileName": "Program.cs",
+    "FilePath": "/src/Program.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 19,
+        "DiagnosticId": "CA1303",
+        "FormatDescription": "error CA1303: Method \u0027\u003Ctop-level-statements-entry-point\u003E\u0027 passes a literal string as parameter \u0027value\u0027 of a call to \u0027void Console.WriteLine(string? value)\u0027. Retrieve the following string(s) from a resource table instead: \u0022Hello, World!\u0022."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "deae570d-ea80-4889-b8e4-92297c858f8b"
+    },
+    "FileName": "Program.cs",
+    "FilePath": "/src/report/Program.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 19,
+        "DiagnosticId": "CA1303",
+        "FormatDescription": "error CA1303: Method \u0027\u003Ctop-level-statements-entry-point\u003E\u0027 passes a literal string as parameter \u0027value\u0027 of a call to \u0027void Console.WriteLine(string? value)\u0027. Retrieve the following string(s) from a resource table instead: \u0022Hello, World!\u0022."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "166a7627-7e5c-4dbf-9a12-d995ae6515b6"
+    },
+    "FileName": "MyScript.cs",
+    "FilePath": "/src/report/MyScript.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 22,
+        "DiagnosticId": "CA1822",
+        "FormatDescription": "error CA1822: Member \u0027FixedUpdate\u0027 does not access instance data and can be marked as static"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "166a7627-7e5c-4dbf-9a12-d995ae6515b6"
+    },
+    "FileName": "MyScript.cs",
+    "FilePath": "/src/report/MyScript.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 22,
+        "DiagnosticId": "UNT0001",
+        "FormatDescription": "warning UNT0001: The Unity message \u0027FixedUpdate\u0027 is empty."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "166a7627-7e5c-4dbf-9a12-d995ae6515b6"
+    },
+    "FileName": "MyScript.cs",
+    "FilePath": "/src/report/MyScript.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 13,
+        "CharNumber": 23,
+        "DiagnosticId": "UNT0002",
+        "FormatDescription": "warning UNT0002: Comparing tags using == is inefficient."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "3e6f6c2b-3fa9-49e5-8afe-6b278266a4b3"
+    },
+    "FileName": "MyScript.cs",
+    "FilePath": "/src/MyScript.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 22,
+        "DiagnosticId": "CA1822",
+        "FormatDescription": "error CA1822: Member \u0027FixedUpdate\u0027 does not access instance data and can be marked as static"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "3e6f6c2b-3fa9-49e5-8afe-6b278266a4b3"
+    },
+    "FileName": "MyScript.cs",
+    "FilePath": "/src/MyScript.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 22,
+        "DiagnosticId": "UNT0001",
+        "FormatDescription": "warning UNT0001: The Unity message \u0027FixedUpdate\u0027 is empty."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "3e6f6c2b-3fa9-49e5-8afe-6b278266a4b3"
+    },
+    "FileName": "MyScript.cs",
+    "FilePath": "/src/MyScript.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 13,
+        "CharNumber": 23,
+        "DiagnosticId": "UNT0002",
+        "FormatDescription": "warning UNT0002: Comparing tags using == is inefficient."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 20,
+        "DiagnosticId": "CA1823",
+        "FormatDescription": "error CA1823: Unused field \u0027privateField\u0027"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 16,
+        "CharNumber": 19,
+        "DiagnosticId": "CA1823",
+        "FormatDescription": "error CA1823: Unused field \u0027staticField\u0027"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 19,
+        "CharNumber": 20,
+        "DiagnosticId": "CA1823",
+        "FormatDescription": "error CA1823: Unused field \u0027readonlyField\u0027"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 4,
+        "CharNumber": 14,
+        "DiagnosticId": "CA1050",
+        "FormatDescription": "error CA1050: Declare types in namespaces"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 10,
+        "CharNumber": 19,
+        "DiagnosticId": "CA1051",
+        "FormatDescription": "error CA1051: Do not declare visible instance fields"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 4,
+        "CharNumber": 14,
+        "DiagnosticId": "CA1708",
+        "FormatDescription": "error CA1708: Names of \u0027Members\u0027 and \u0027SerializedAttributes.publicField, SerializedAttributes.publicField\u0027 should differ by more than case"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 9,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027publicField\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 12,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027PrivateProperty\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 15,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027staticField\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 18,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027readonlyField\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 20,
+        "DiagnosticId": "CA1823",
+        "FormatDescription": "error CA1823: Unused field \u0027privateField\u0027"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 16,
+        "CharNumber": 19,
+        "DiagnosticId": "CA1823",
+        "FormatDescription": "error CA1823: Unused field \u0027staticField\u0027"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 19,
+        "CharNumber": 20,
+        "DiagnosticId": "CA1823",
+        "FormatDescription": "error CA1823: Unused field \u0027readonlyField\u0027"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 10,
+        "CharNumber": 19,
+        "DiagnosticId": "CA1051",
+        "FormatDescription": "error CA1051: Do not declare visible instance fields"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 9,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027publicField\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 12,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027PrivateProperty\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 15,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027staticField\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 18,
+        "CharNumber": 5,
+        "DiagnosticId": "UNT0013",
+        "FormatDescription": "error UNT0013: SerializeField attribute is invalid or redundant for property or field: \u0027readonlyField\u0027."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "badd4315-0488-4000-ae10-1f926f0db549"
+    },
+    "FileName": "Program.cs",
+    "FilePath": "/src/Program.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 2,
+        "CharNumber": 1,
+        "DiagnosticId": "CA1852",
+        "FormatDescription": "error CA1852: Type \u0027Program\u0027 can be sealed because it has no subtypes in its containing assembly and is not externally visible"
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 20,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable field \u0027privateField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 10,
+        "CharNumber": 19,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable field \u0027publicField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 13,
+        "CharNumber": 20,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable property \u0027PrivateProperty\u0027 must contain a non-null value when exiting constructor. Consider declaring the property as nullable."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 7,
+        "CharNumber": 20,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable field \u0027privateField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 10,
+        "CharNumber": 19,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable field \u0027publicField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 13,
+        "CharNumber": 20,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable property \u0027PrivateProperty\u0027 must contain a non-null value when exiting constructor. Consider declaring the property as nullable."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "a9454bba-a12f-4bab-88b0-cca0b7ca5ba6"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/report/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 16,
+        "CharNumber": 19,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable field \u0027staticField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+      }
+    ]
+  },
+  {
+    "DocumentId": {
+      "ProjectId": {
+        "Id": "09db1033-4398-4160-b290-83c7b6a6d24e"
+      },
+      "Id": "159171c7-574c-40b8-ae7d-611f11dc5513"
+    },
+    "FileName": "SerializedAttributes.cs",
+    "FilePath": "/src/SerializedAttributes.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 16,
+        "CharNumber": 19,
+        "DiagnosticId": "CS8618",
+        "FormatDescription": "warning CS8618: Non-nullable field \u0027staticField\u0027 must contain a non-null value when exiting constructor. Consider declaring the field as nullable."
+      }
+    ]
+  }
+]

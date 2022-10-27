@@ -1,0 +1,18 @@
+<RuleSet Name="New Rule Set" Description=" " ToolsVersion="10.0">
+  <Rules AnalyzerId="Microsoft.Unity.Analyzers" RuleNamespace="Microsoft.Unity.Analyzers">
+    <Rule Id="UNT0001" Action="Warning" />
+    <Rule Id="UNT0002" Action="Warning" />
+    <Rule Id="UNT0003" Action="Warning" />
+    <Rule Id="UNT0004" Action="Warning" />
+    <Rule Id="UNT0005" Action="Warning" />
+    <Rule Id="UNT0006" Action="Warning" />
+    <Rule Id="UNT0007" Action="Warning" />
+    <Rule Id="UNT0008" Action="Warning" />
+
+    <Rule Id="UNT0009" Action="Warning" />
+    <Rule Id="UNT0010" Action="Warning" />
+    <Rule Id="UNT0012" Action="Warning" />
+    <Rule Id="UNT0013" Action="Error" />
+    
+  </Rules>
+</RuleSet>
